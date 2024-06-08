@@ -281,7 +281,7 @@ grid-area: footer;
 .maingridarea
 {
   display: grid;
-  grid-template: 1fr 1fr 1fr 1fr/1fr 1fr 1fr 1fr;
+  grid-template: 1fr 1fr/1fr 1fr;
   grid-gap: 3%;
   padding: 1rem;
   padding-left: 3rem;
